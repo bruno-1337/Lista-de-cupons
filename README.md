@@ -1,2 +1,2 @@
 # Lista-de-cupons
-Lista de cupons para economizar xd
+Lista de cupons para fuzzing
